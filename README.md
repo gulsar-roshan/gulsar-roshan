@@ -1,9 +1,9 @@
 # Hello, I'm MOHAMMED GULSAR ROSHAN
 <a href="https://www.linkedin.com/in/gulsarroshan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As a cybersecurity analyst and programmer, I combine technical prowess with a strategic mindset to protect digital assets from threats. My passion lies in dissecting complex security challenges, identifying vulnerabilities, and implementing robust solutions. With a background in IT, I bring a unique blend of analytical thinking, coding skills, and a commitment to safeguarding data integrity.
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
