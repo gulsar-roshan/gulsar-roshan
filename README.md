@@ -24,23 +24,26 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 
 ## Certifications
 
+## Certifications
+
 ### ☁️ AWS Solutions Architect – Associate (In Progress)
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/AWS-solutions%20architect-associate.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/AWS-solutions%20architect-associate.png" width="120">
 
 ### 🎓 Master in Cloud Computing — Jetking Kochi
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/jetking.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/jetking.png" width="120">
 
 ### 🔐 IBM Cybersecurity Analyst — Coursera
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/introduction-to-cybersecurity-tools-cyber-attacks.png" width="120">
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/cyber-threat-intelligence.png" width="120">
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/cybersecurity-roles-processes-operating-system-security.png" width="120">
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/cybersecurity-compliance-framework-system-administration.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/introduction-to-cybersecurity-tools-cyber-attacks.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/cyber-threat-intelligence.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/cybersecurity-roles-processes-operating-system-security.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/cybersecurity-compliance-framework-system-administration.png" width="120">
 
 ### 🛡️ Cisco Certified Ethical Hacker — Cisco NetAcad
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/ethical-hacker.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/ethical-hacker.png" width="120">
 
 ### 🤖 Google IT Automation with Python — Coursera
-<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/google-it-automation-with-python-professional-certi.png" width="120">
+<img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/google-it-automation-with-python-professional-certi.png" width="120">
+"120">
 
 
 ## Technical Skills
