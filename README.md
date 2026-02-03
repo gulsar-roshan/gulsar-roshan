@@ -1,24 +1,26 @@
 # Hello, I'm MOHAMMED GULSAR ROSHAN
 <a href="https://www.linkedin.com/in/gulsarroshan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-As a cybersecurity analyst and programmer, I combine technical prowess with a strategic mindset to protect digital assets from threats. My passion lies in dissecting complex security challenges, identifying vulnerabilities, and implementing robust solutions. With a background in IT, I bring a unique blend of analytical thinking, coding skills, and a commitment to safeguarding data integrity.
+Recent graduate aspiring to be a Cloud Engineer with a cybersecurity-focused mindset, building secure, scalable, and reliable cloud solutions while identifying and mitigating potential risks in modern cloud environments.
 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring Cloud Engineer with a solid understanding of cloud architecture, networking, and cybersecurity, seeking to contribute to the design, deployment, and security of modern cloud infrastructures. I am driven to apply my knowledge of AWS, Linux, and security principles to develop reliable, scalable, and secure cloud solutions that enhance operational efficiency and data protection. Through continuous learning and hands-on implementation, I aim to grow as a cloud professional while delivering meaningful impact to organizations through secure and innovative cloud technologies.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Domain                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Cloud Infrastructure Deployment (AWS) | AWS-Based Secure Web Hosting Solution |
+| Linux Server Administration | AWS-Based Secure Web Hosting Solution |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Secure Coding & Password Security | Password Strength Analyzer |
+| Machine Learning & Data Analysis | Movie Recommendation Engine |
+| Data Analysis & Visualization | Netflix Data Analysis |
+
+
 
 ## Tools
 <!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
