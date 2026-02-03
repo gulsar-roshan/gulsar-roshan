@@ -12,8 +12,8 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 
 | Domain                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Infrastructure Deployment (AWS) | AWS-Based Secure Web Hosting Solution |
-| Linux Server Administration | AWS-Based Secure Web Hosting Solution |
+| Cloud Infrastructure Deployment (AWS) | AWS-Based-Secure-Web-Hosting-Solution |
+| Linux Server Administration | AWS-Based-Secure-Web-Hosting-Solution |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Secure Coding & Password Security | Password Strength Analyzer |
