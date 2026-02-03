@@ -12,13 +12,13 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 
 | Domain                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Infrastructure Deployment (AWS) | AWS-Based-Secure-Web-Hosting-Solution |
-| Linux Server Administration | AWS-Based-Secure-Web-Hosting-Solution |
+| Cloud Infrastructure Deployment (AWS) | <a href="https://github.com/gulsar-roshan/AWS-Based-Secure-Web-Hosting-Solution.git">AWS-Based Secure Web Hosting Solution </a>|
+| Linux Server Administration | <a href="https://github.com/gulsar-roshan/AWS-Based-Secure-Web-Hosting-Solution.git">AWS-Based Secure Web Hosting Solution </a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Secure Coding & Password Security | Password Strength Analyzer |
-| Machine Learning & Data Analysis | Movie Recommendation Engine |
-| Data Analysis & Visualization | Netflix Data Analysis |
+| Secure Coding & Password Security |  <a href="https://github.com/gulsar-roshan/Password_Strength_Analyzer.git"> Password Strength Analyzer |
+| Machine Learning & Data Analysis |<a href="https://github.com/gulsar-roshan/MOVIE-RECOMMENDATION-ENGINE.git"> Movie Recommendation Engine |
+| Data Analysis & Visualization | <a href="https://github.com/gulsar-roshan/NETFLIX-DATA-ANALYSIS.git"> Netflix Data Analysis |
 
 
 
