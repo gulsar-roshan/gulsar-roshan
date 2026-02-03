@@ -8,7 +8,7 @@ Recent graduate aspiring to be a Cloud Engineer with a cybersecurity-focused min
 
 Aspiring Cloud Engineer with a solid understanding of cloud architecture, networking, and cybersecurity, seeking to contribute to the design, deployment, and security of modern cloud infrastructures. I am driven to apply my knowledge of AWS, Linux, and security principles to develop reliable, scalable, and secure cloud solutions that enhance operational efficiency and data protection. Through continuous learning and hands-on implementation, I aim to grow as a cloud professional while delivering meaningful impact to organizations through secure and innovative cloud technologies.
 
-## Skills & Projects
+## Hands-on Skills & Projects
 
 | Domain                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,9 +22,16 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 
 
 
-## Tools
-<!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Technical Skills
 
+* Cloud & DevOps: AWS (EC2, S3, IAM, VPC, Route 53)
+* Linux (user management, file system, services, SSH, basic shell commands)
+* Windows (administration, Active Directory, user support)
+* Networking: TCP/IP, DNS, DHCP, LAN/WAN basics
+* Tools: Wireshark, Nmap, Metasploit, netcat
+* Programming: Python, Java, C++
+* Support & Troubleshooting: Ticket handling, incident resolution 
+<!--
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
