@@ -23,16 +23,16 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 ## Certifications
 
 <div>
-* Master in Cloud Computing
+* Master in Cloud Computing - Jetking Kochi
 </div>
 <div>
-* Master in Cloud Computing
+* IBM Cybersecurity Analyst - Coursera
 </div>
 <div>
-* Master in Cloud Computing
+* Cisco Certified Ethical Hacker - cisco networking academy (netacad)
 </div>
 <div>
-* Master in Cloud Computing
+* Google IT Automation with Python - Coursera
 </div>
 
 ## Technical Skills
