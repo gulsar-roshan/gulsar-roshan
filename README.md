@@ -24,13 +24,22 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 
 <div align="center">
 
+### ☁️ AWS Solutions Architect – Associate (In Progress)
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/AWS-solutions%20architect-associate.png" width="100">
+
+### 🎓 Master in Cloud Computing — Jetking Kochi
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/jetking.png" width="100">
+
+### 🔐 IBM Cybersecurity Analyst — Coursera
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/introduction-to-cybersecurity-tools-cyber-attacks.png" width="100">
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/cyber-threat-intelligence.png" width="100">
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/cybersecurity-roles-processes-operating-system-security.png" width="100">
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/cybersecurity-compliance-framework-system-administration.png" width="100">
+
+### 🛡️ Cisco Certified Ethical Hacker — Cisco NetAcad
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/ethical-hacker.png" width="100">
+
+### 🤖 Google IT Automation with Python — Coursera
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/google-it-automation-with-python-professional-certi.png" width="100">
 
 </div>
