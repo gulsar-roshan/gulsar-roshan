@@ -22,12 +22,6 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 
 ## Certifications
 
-## Certifications
-
-## Certifications
-
-## Certifications
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/gulsar-roshan/Certifications/main/badges/AWS-solutions%20architect-associate.png" width="100">
