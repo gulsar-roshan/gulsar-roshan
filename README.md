@@ -25,6 +25,15 @@ Aspiring Cloud Engineer with a solid understanding of cloud architecture, networ
 <div>
 * Master in Cloud Computing
 </div>
+<div>
+* Master in Cloud Computing
+</div>
+<div>
+* Master in Cloud Computing
+</div>
+<div>
+* Master in Cloud Computing
+</div>
 
 ## Technical Skills
 
