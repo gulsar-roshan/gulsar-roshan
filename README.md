@@ -8,7 +8,7 @@ Recent graduate aspiring to be a Cloud Engineer with a cybersecurity-focused min
 
 Aspiring Cloud Engineer with a solid understanding of cloud architecture, networking, and cybersecurity, seeking to contribute to the design, deployment, and security of modern cloud infrastructures. I am driven to apply my knowledge of AWS, Linux, and security principles to develop reliable, scalable, and secure cloud solutions that enhance operational efficiency and data protection. Through continuous learning and hands-on implementation, I aim to grow as a cloud professional while delivering meaningful impact to organizations through secure and innovative cloud technologies.
 
-## Skills
+## Skills & Projects
 
 | Domain                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
